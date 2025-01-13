@@ -1,14 +1,14 @@
-![2UN.LTD](https://ahoylemon.github.io/2un.ltd/img/og-image.png)
+![Are you ready for this?](https://ready.ahoylemon.xyz/og-image2.webp)
 #### Are you all ready for this?
 
 ## Huh?
-**2UN 🔵 LTD** is a website that asks if you're ready for this. If you are ready for this, appropriate measures will be taken. But only for 1.5 seconds at a time.
+**Are you ready for this?** is a website that asks if you're ready for this. If you are ready for this, appropriate measures will be taken. But only for 1.5 seconds at a time.
 
 ## Uhhhhhhhhhh... huh?
 It's a site that plays 2 Unlimited's "Get Ready For This" while showing you videos off people dancing.
 
 ## Yeahhhhhh, so... huh?
-Look, I found out the domain `2un.ltd` was available for $3 so I bought it. At that point I had to actually make something with it.
+Look, I found out the domain `2un.ltd` was available for $3 so I bought it. At that point I had to actually make something with it. And then when the domain was up for renewal, it was more than $3, so I changed it.
 
 ## So who made this thing?
 [Lemon](http://ahoylemon.xyz) made this one himself. 2 Unlimited was not involved. Lemon has also made other sites of equal usefulness in case you want to [look at those](http://ahoylemon.xyz).
@@ -42,7 +42,6 @@ Look, I found out the domain `2un.ltd` was available for $3 so I bought it. At t
 26. [STREETSTAR 2013 - Vogue Femme Final Battle Lasseindra (FRA) vs Ida"Inxi" Holmlund (FIN)](https://www.youtube.com/watch?v=Jhhd_tEaJEQ)
 27. [Bonde das Maravilhas - Aquecimento das Maravilhas](https://www.youtube.com/watch?v=7raxxqP6DSU)
 28. [This Aerobic Video Wins Everything](https://www.youtube.com/watch?v=TIfAkOBMf5A)
-
 
 ## This is dumb, why do you waste your time making this stuff?
 Mom?
