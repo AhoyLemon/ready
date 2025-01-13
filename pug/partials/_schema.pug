@@ -4,17 +4,22 @@ script(type="application/ld+json").
     "@type": "WebSite",
     "name": "#{siteTitle}",
     "url": "#{siteURL}",
-    "sameAs": "#{fplusURL}",
+    "sameAs": [
+      "#{fplusURL}",
+      "https://ahoylemon.github.io/2un.ltd"
+    ],
     "alternateName": [
       "2UNLIMITED",
       "2un.limited",
       "2un.ltd",
       "2 unlimited"
+      "ready",
+      "y'all ready for this",
+      "ready for this"
     ],
     "image": "#{siteURL}/img/og-image.png",
     "description": "#{description}",
     "inLanguage": "English",
-    
     "author": {
       "@type": "Person",
       "name": "Lemon",
@@ -22,11 +27,7 @@ script(type="application/ld+json").
       "sameAs": [
         "https://thefpl.us/meet/lemon",
         "https://twitter.com/AhoyLemon"
+        "https://mastodon.social/@ahoylemon"
       ]
-    },
-    "publisher": {
-      "@type": "PerformingGroup",
-      "name": "The F Plus",
-      "url": "https://thefpl.us"
     }
   }
